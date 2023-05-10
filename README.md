@@ -4,6 +4,8 @@ Personal practice training a model with **fastai** and turning it to an online a
 1. First I train and export the model.  
 2. Then I upload the model on hugginface gradio space to run an online application.
 
+[*Hugging face app link*](https://huggingface.co/spaces/loatlam/Model_to_onl_App)
+
 ## Reference
 
 The Course:  
@@ -37,8 +39,6 @@ You can fine-tune it more for better performance.
 
 
 ## Model to online Application
-
-[*Hugging face app link*](https://huggingface.co/spaces/loatlam/Model_to_onl_App)
 
 ### Directory: "Model_to_online_App"
 
