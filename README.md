@@ -14,7 +14,7 @@ The Course:
 
 1. Pytorch high-level (basic).
 2. Fastai high-level (basic).
-3. Jupyter notebook.
+3. Jupyter notebook basic.
 4. Gradio basic.
 
 ## Train and export the model
