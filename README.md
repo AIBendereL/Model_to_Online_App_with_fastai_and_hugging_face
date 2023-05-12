@@ -37,6 +37,8 @@ You can run the notebook **clean_data_model_driven.ipynb** to get the exported m
 I use a pre-train resnet18, fine-tune it with 2 epochs, in less than 20 seconds.  
 You can fine-tune it more for better performance.  
 
+The **chean_data_model_driven.ipynb** file has some code to display and experiment in it. You can look into them if you are interested.  
+Or else, you can just run the file end-to-end to produce the model like normal.  
 
 ## Model to online Application
 
