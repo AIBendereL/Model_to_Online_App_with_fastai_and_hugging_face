@@ -21,7 +21,7 @@ The Course:
 
 ## Train and export the model
 
-### Directory: "Model_training"
+### Directory: Model_training
 
 I train a  simple fish classifier:
 1. Goldfish
@@ -42,7 +42,7 @@ Or else, you can just run the file end-to-end to produce the model like normal.
 
 ## Model to online Application
 
-### Directory: "Model_to_online_App"
+### Directory: Model_to_online_App
 
 This directory is hugging face gradio space repository. The same as you clone from the *Hugging face app link*.  
 (Hugging face uses git)
